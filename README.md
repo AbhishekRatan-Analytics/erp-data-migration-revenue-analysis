@@ -70,6 +70,12 @@ Identify and quantify revenue leakage in legacy operations.
 - Established clean revenue baseline of $8.88M  
 - Enabled accurate financial reporting for ERP system  
 
+## Dashboard Preview
+<img width="1327" height="734" alt="image" src="https://github.com/user-attachments/assets/63e44050-b4f4-41bd-8910-4ad392e82077" />
+
+
+
+
 ---
 
 ## 📊 Key Insights
