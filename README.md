@@ -71,7 +71,8 @@ Identify and quantify revenue leakage in legacy operations.
 - Enabled accurate financial reporting for ERP system  
 
 ## Dashboard Preview
-<img width="1327" height="734" alt="image" src="https://github.com/user-attachments/assets/63e44050-b4f4-41bd-8910-4ad392e82077" />
+<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/0c6c7e1f-da4f-4c29-953e-67e5c82be706" />
+
 
 
 
